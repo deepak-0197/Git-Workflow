@@ -2,3 +2,4 @@
 *.csv
 mlm.pdf
 Password/
+.gitignore
